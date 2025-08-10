@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m6toIHtz8ZaoOzr+qGjqHFR25YYd0jXChMjiPoyInmg=",
+  "Source": "TestManagementAPI",
+  "BasePath": "_content/TestManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
